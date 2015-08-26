@@ -1,7 +1,7 @@
 {
   "name": "xy-diff",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Find the x/y difference between a pair of coordinates",
   "license": "MIT",
   "repository": "bendrucker/xy-diff",
