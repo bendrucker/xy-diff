@@ -1,4 +1,4 @@
-# xy-diff [![Build Status](https://travis-ci.org/bendrucker/xy-diff.svg?branch=master)](https://travis-ci.org/bendrucker/xy-diff)
+# xy-diff [![Build Status](https://travis-ci.org/bendrucker/xy-diff.svg?branch=master)](https://travis-ci.org/bendrucker/xy-diff) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/xy-diff.svg)](https://greenkeeper.io/)
 
 > Find the x/y difference between a pair of coordinates
 
