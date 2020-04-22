@@ -26,6 +26,6 @@
     "index.js"
   ],
   "dependencies": {
-    "assert-coordinates": "~1.0.1"
+    "assert-coordinates": "~2.0.0"
   }
 }
